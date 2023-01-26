@@ -4,5 +4,6 @@ public class C01 {
         System.out.println("cmd çok kullanışlı");
         System.out.println("Java akıyor");
         System.out.println("java çok hızlı");
+        System.out.println("bugunun sonunu görecekmıyız");
     }
 }
